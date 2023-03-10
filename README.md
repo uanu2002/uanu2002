@@ -6,9 +6,10 @@
 ![Metrics](/metrics.plugin.languages.details.svg) -->
 <!-- ![Metrics](/metrics.plugin.topics.icons.svg) -->
 
-[<img align="left" src="/metrics.plugin.isocalendar.fullyear.svg" alt="🦑" width="390">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.activity.svg">](#)
-[<img align="left" width="390" alt="🦑" src="/metrics.plugin.stars.svg">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.contributors.categories.svg">](#)
-[<img align="center" width="390*2" alt="🦑" src="/metrics.plugin.achievements.compact.svg">](#)
-[<img align="left" width="390" alt="🦑" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="left" height="180" src="/metrics.plugin.isocalendar.fullyear.svg" alt="🦑" width="390">](#)
+[<img align="right" width="390" height="180" alt="🦑" src="/metrics.plugin.achievements.compact.svg">](#)
+[<img align="left" width="390" height="180" alt="🦑" src="/metrics.plugin.stars.svg">](#)
+[<img align="right" width="390" height="180" alt="🦑" src="/metrics.plugin.activity.svg">](#)
+[<img align="left" width="390" height="180" alt="🦑" src="/metrics.plugin.contributors.categories.svg">](#)
+[<img align="right" width="390" alt="🦑" src="/metrics.plugin.languages.details.svg">](#)
+
