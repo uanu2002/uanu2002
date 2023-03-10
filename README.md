@@ -5,7 +5,7 @@
 ![Metrics](/metrics.plugin.stars.svg) -->
 <!-- ![Metrics](/metrics.plugin.topics.icons.svg) -->
 
-[<img align="left" width="390" alt="🦑" src="/metrics.plugin.isocalendar.fullyear.svg">](#)
+<img align="left" width="390" alt="🦑" src="/metrics.plugin.isocalendar.fullyear.svg">
 [<img align="right" width="390" alt="🦑" src="/metrics.plugin.activity.svg">](#)
 [<img align="left" width="390" alt="🦑" src="/metrics.plugin.stars.svg">](#)
 [<img align="right" width="390" alt="🦑" src="/metrics.plugin.contributors.categories.svg">](#)
