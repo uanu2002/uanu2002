@@ -1,15 +1,11 @@
-<!-- ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-![Metrics](/metrics.plugin.activity.svg)
-![Metrics](/metrics.plugin.achievements.compact.svg)
-![Metrics](/metrics.plugin.contributors.categories.svg)
-![Metrics](/metrics.plugin.stars.svg)
-![Metrics](/metrics.plugin.languages.details.svg) -->
-<!-- ![Metrics](/metrics.plugin.topics.icons.svg) -->
+<h1 align="center">Hi there, I'm Jianyu Wu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<!-- [<img align="left" height="180" src="/metrics.plugin.isocalendar.fullyear.svg" alt="🦑" width="390">](#)
-[<img align="right" width="390" height="180" alt="🦑" src="/metrics.plugin.achievements.compact.svg">](#)
-[<img align="left" width="390" height="180" alt="🦑" src="/metrics.plugin.stars.svg">](#)
-[<img align="right" width="390" height="180" alt="🦑" src="/metrics.plugin.activity.svg">](#)
-[<img align="left" width="390" height="180" alt="🦑" src="/metrics.plugin.contributors.categories.svg">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.languages.details.svg">](#) -->
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding More, Coding Less! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
+<p align="center">
+  <h3> I am now an undergraduate student in China.</h3>
+</p>
+
+ - :sparkling_heart: Interest: Generative Models, AI4Science and ...
